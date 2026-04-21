@@ -1,0 +1,13 @@
+John Doe
+Email: john@example.com
+Phone: 123-456-7890
+
+Skills: Python, JavaScript, React, Node.js, MongoDB
+
+Experience:
+Software Engineer at Tech Corp (2020-Present)
+- Developed web applications using React and Node.js
+- Built RESTful APIs
+
+Education:
+BS Computer Science, University of Technology, 2020
